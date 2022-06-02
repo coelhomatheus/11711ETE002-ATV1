@@ -1,5 +1,5 @@
 # 11711ETE002-ATV1
-## Matheus Rodrigues Cunha Coelho
+## Matheus Rodrigues Cunha Coelho - 11711ETE002
 ### Repositório ATV1 - Sistemas Embarcados I
 
 Inicialmente, instalamos e configuramos o ambiente, intalamos o *Ubuntu 20.04* no *Wsl*. Nele criamos os primeiros arquivos que seriam usados no STM32F411, também tivemos o primeiro contato com arquivos *Makefile*, que são responsáveis por automatizar a compilação dos scripts.
