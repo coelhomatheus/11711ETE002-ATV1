@@ -208,3 +208,4 @@ uint32_t vector[] __attribute__((section(".isr_vectors"))) = // não entendi ess
   (uint32_t)spi4_irqhandler,              /* 0x0000 0190 */
   (uint32_t)spi5_irqhandler,              /* 0x0000 0194 */
 };
+
